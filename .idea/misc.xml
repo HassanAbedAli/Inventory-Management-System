@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/font/.xml" value="0.1" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/font/acme.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/activity_home.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/activity_login.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/activity_main.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/activity_product_list_item.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/activity_products_list.xml" value="0.67" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/activity_transaction_list.xml" value="0.5" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/add_product_dialog.xml" value="0.48" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/edit_amount.xml" value="0.42745098039215684" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/product_list_item.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/HES/StudioProjects/FinalProjectMobile/app/src/main/res/layout/transaction_list_item.xml" value="0.19384057971014493" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
