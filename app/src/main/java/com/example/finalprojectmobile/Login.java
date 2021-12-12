@@ -68,7 +68,7 @@ public class Login extends AppCompatActivity {
 
 
 
-
+    // I added my username and password written as default so you can log in to the app and test it
     public void login(String username){
 
         Intent intent = new Intent(this, Home.class);
